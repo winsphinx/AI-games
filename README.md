@@ -3,3 +3,6 @@
 
 ## Tetris
 俄罗斯方块
+
+## Minesweeper
+扫雷
